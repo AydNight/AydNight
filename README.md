@@ -59,7 +59,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40ya_andriichik-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ya_andriichik)
 [![GitHub](https://img.shields.io/badge/GitHub-AydNight-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AydNight)
-[![Telegram](https://img.shields.io/badge/Telegram-%40AydNight-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AydNight)
 
 ---
 
