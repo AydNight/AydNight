@@ -28,7 +28,6 @@
 ### 🔒 Приватні (активні)
 | Проект | Опис | Стек |
 |--------|------|------|
-| **call-center-ai** | Voice Assistant MVP: Parakeet TDT 0.6B + Ollama Qwen. Local STT → LLM pipeline для української мови | HTML, Python |
 | **Novak** | Сайт для новацьких виховників: проби, сходинки, точки | JavaScript |
 | **Nexum** | Telegram-бот для збору медичної інформації | JavaScript |
 
